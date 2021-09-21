@@ -1,4 +1,4 @@
-# Converso-de-Ano-Luz-em-Km
+# Converso-de-Ano-Luz-em-Km JS
 
 function Converter() {
   var valorElemento = document.getElementById("valor");
